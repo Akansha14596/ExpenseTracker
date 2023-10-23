@@ -19,7 +19,7 @@ function App() {
     {
       id: "e3",
       title: "Home loan",
-      amount: "5000k",
+      amount: "50k",
       date: new Date(2022, 7, 5),
     },
   ];
